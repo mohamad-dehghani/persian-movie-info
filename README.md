@@ -1,2 +1,2 @@
 # persian-movie-info
-List of Iranian movies and series with detailed information
+اطلاعات مربوط به 316 فیلم و سریال ایرانی که شامل نام فیلم، سال تولید، ژانر، بازیگران، کارگردان و امتیازات مختلف هر فیلم است.
